@@ -6,7 +6,7 @@ This repository contains a collection of PDFs representing my work, experiments,
 
 ### Artificial Intelligence & Machine Learning
 - **AI for Financial & Banking Application** [(PDF)](https://github.com/PrathameshPC77/academic_cse/blob/main/AI%20for%20Financial%20%26%20Banking%20Application.pdf)
-- **Advance Artificial Intelligence** [(PDF)](https://github.com/PrathameshPC77/academic_cse/blob/main/Advance%20Artificial%20Intelligence.pdf)
+- **Advanced Artificial Intelligence** [(PDF)](https://github.com/PrathameshPC77/academic_cse/blob/main/Advanced%20Artificial%20Intelligence.pdf)
 - **Artificial Intelligence** [(PDF)](https://github.com/PrathameshPC77/academic_cse/blob/main/Artificial%20Intelligence.pdf)
 - **Machine Learning** [(PDF)](https://github.com/PrathameshPC77/academic_cse/blob/main/Machine%20Learning.pdf)
 - **Deep Learning** [(PDF)](https://github.com/PrathameshPC77/academic_cse/blob/main/Deep%20Learning.pdf)
@@ -45,6 +45,9 @@ This repository contains a collection of PDFs representing my work, experiments,
 
 ## How to Use:
 Each subject area contains the core PDF documents related to experiments, reports, or assignments. The documents can be referenced for educational purposes, and they provide insights into the practical aspects of each field of study.
+
+## Troubleshooting:
+If you're unable to view a PDF or it appears blank, it’s recommended to **download** the PDF for proper viewing.
 
 ## License:
 This repository is licensed under the MIT License. Feel free to use or reference any materials with proper attribution.
